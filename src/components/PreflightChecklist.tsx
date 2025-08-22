@@ -1,6 +1,6 @@
 // src/components/PreflightChecklist.tsx
 
-import React from “react”;
+import React from "react";
 
 interface ChecklistItem {
 step: string;
